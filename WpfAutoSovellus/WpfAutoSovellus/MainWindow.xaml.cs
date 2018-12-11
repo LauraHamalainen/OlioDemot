@@ -27,7 +27,7 @@ namespace WpfAutoSovellus
 
         private void BtnTallenna_Click(object sender, RoutedEventArgs e)
         {
-            MessageBox.Show("Viesti: " + txtViesti.Text);
+            MessageBox.Show("Viesti: " + txtViesti.Text + "Hiioojohoi");
         }
     }
 }
